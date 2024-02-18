@@ -61,6 +61,6 @@
 
 ###
 
-<p align="left">📫 How to reach me: LinkedIn, Facebook<br>😄 Pronouns: He/Him</p>
+<p align="left">📫 How to reach me: <a href="https://www.linkedin.com/in/rohitverma0234/">LinkedIn</a> <br>😄 Pronouns: He/Him</p>
 
 ###
