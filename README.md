@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rohit Verma and I'm a Frontend Developer Developer from USA.</p>
+<p align="left">My name is Rohit Verma and I'm a Frontend Developer from USA.</p>
 
 ###
 
